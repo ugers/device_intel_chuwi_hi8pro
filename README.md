@@ -1,2 +1,1 @@
-# device_intel_chuwi_hi8pro
-device tree for chuwi hi8pro rev.1(6030-6050)
+CyanogenMod 12.1 device configuration for [Chuwi Vi10 Plus](http://konstakang.com/devices/chuwi_vi10plus/CM12.1).
